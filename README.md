@@ -103,7 +103,11 @@ You can find the most recent version of this guide [here](https://github.com/fac
 - [Alternatives to Ejecting](#alternatives-to-ejecting)
 - [Something Missing?](#something-missing)
 
+<<<<<<< HEAD
 ## Updating to New Releases
+=======
+![Screenshot](trek-click/public/assets/images/scrn.png)
+>>>>>>> ae9799de0631cf459f5b66c0f5a363dbd59d59a1
 
 Create React App is divided into two packages:
 
