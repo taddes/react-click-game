@@ -7,5 +7,5 @@ This app uses React.js state and props to modify the DOM via three distinct comp
 
 Various images of Star Trek characters are generated and randomized based on the user's clicks.  When a user clicks a character, they recieve a point and the images shuffle around.  The user then tries to click an image without repeating the image they clicked.  If they do click a previously selected character, the game restarts.  A total score tally keeps track of the highest score achieved. 
 
-![Screenshot](/images/scrn.png)
+![Screenshot](trek-click/public/assets/images/scrn.png)
 
