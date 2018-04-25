@@ -1,3 +1,33 @@
+<h1>React.js Star Trek Click Game</h1>
+<hr>
+
+This application renders numerous Star Trek characters in the DOM and when a single image is clicked, the rest of the images shuffle.  The goal of the game is to not click the same picture twice. The game keeps track of the user's top score and resets when an incorrect selection is made.
+
+![Star Trek Click](/public/assetsimages/scrn.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
