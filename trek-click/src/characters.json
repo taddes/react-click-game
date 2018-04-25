@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Kirk",
+    "image": "assets/images/kirk.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 1,
+    "name": "Spock",
+    "image": "assets/images/spock.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "name": "Scotty",
+    "image": "assets/images/scott.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "name": "McCoy",
+    "image": "assets/images/mccoy.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "name": "Sulu",
+    "image": "assets/images/sulu.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 5,
+    "name": "Uhura",
+    "image": "assets/images/uhura.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "name": "Chekov",
+    "image": "assets/images/chekov.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "name": "Chapel",
+    "image": "assets/images/chapel.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "name": "Kor",
+    "image": "assets/images/kor.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "name": "Khan",
+    "image": "assets/images/khan.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 10,
+    "name": "Mudd",
+    "image": "assets/images/mudd.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 11,
+    "name": "Tal",
+    "image": "assets/images/tal.jpg",
+    "isClicked": false
+  }
+]

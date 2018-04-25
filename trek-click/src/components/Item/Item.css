@@ -1,0 +1,8 @@
+.click-item {
+  height: 200px;
+  width: 200px;
+  margin: 10px 25px;
+  border: 10px;
+  border-color: black;
+  cursor: pointer;
+}
