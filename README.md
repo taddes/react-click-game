@@ -2,7 +2,7 @@
 Follow this link to the deployed app: https://trek-click.herokuapp.com/
 <hr>
 
-This application renders numerous Star Trek characters in the DOM and when a single image is clicked, the rest of the images shuffle.  The goal of the game is to not click the same picture twice. The game keeps track of the user's top score and resets when an incorrect selection is made.
+>This application renders numerous Star Trek characters in the DOM and when a single image is clicked, the rest of the images shuffle.  The goal of the game is to not click the same picture twice. The game keeps track of the user's top score and resets when an incorrect selection is made.
 
 ![Star Trek Click](public/assets/images/scrn.png)
 
